@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class DivisibleBy5 {
     public static void main(String[] args) {
+        // taking input using scanner class
         Scanner input = new Scanner(System.in);
 
         // user input

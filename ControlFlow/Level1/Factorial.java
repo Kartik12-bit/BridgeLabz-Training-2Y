@@ -21,7 +21,7 @@ public class Factorial {
                 i++;
             }
 
-            // Print the result
+            // Printing the result
             System.out.println("The factorial of " + num + " is: " + factorial);
         }
     }
