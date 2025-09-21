@@ -46,7 +46,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q5 {
     public static void main(String[] args) {
         Patient p1 = new Patient("Kartik", 25, "Fever");
         Patient p2 = new Patient("Aman", 30, "Back Pain");

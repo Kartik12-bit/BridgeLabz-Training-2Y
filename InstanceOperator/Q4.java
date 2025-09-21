@@ -43,7 +43,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q4{
     public static void main(String[] args) {
         Vehicle v1 = new Vehicle("Kartik", "Car", "MH12AB1234");
         Vehicle v2 = new Vehicle("Aman", "Bike", "MH12XY5678");

@@ -44,7 +44,7 @@ Instanceof
     }
 }
 
-class Main {
+class Q3 {
     public static void main(String[] args) {
         Employee e1 = new Employee("Kartik", 101, "Software Engineer");
         Employee e2 = new Employee("Aman", 102, "Project Manager");

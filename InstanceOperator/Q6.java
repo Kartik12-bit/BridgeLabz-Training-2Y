@@ -52,7 +52,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q6 {
     public static void main(String[] args) {
         Product p1 = new Product("Laptop", 55000, 1);
         Product p2 = new Product("Headphones", 2000, 2);

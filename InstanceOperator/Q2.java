@@ -42,7 +42,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q2 {
     public static void main(String[] args) {
         Book b1 = new Book("Effective Java", "Joshua Bloch", "978-0134685991");
         Book b2 = new Book("Clean Code", "Robert C. Martin", "978-0132350884");

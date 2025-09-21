@@ -53,7 +53,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q7 {
     public static void main(String[] args) {
         Student s1 = new Student("Kartik", 101, "A");
         Student s2 = new Student("Aman", 102, "B");

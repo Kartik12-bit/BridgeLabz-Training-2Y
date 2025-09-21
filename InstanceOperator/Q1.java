@@ -62,7 +62,7 @@ Instanceof:
     }
 }
 
-class Main {
+class Q1 {
     public static void main(String[] args) {
         BankAccount b1 = new BankAccount("Kartik", 10101, 5000);
         BankAccount b2 = new BankAccount("Aman", 20202, 10000);
