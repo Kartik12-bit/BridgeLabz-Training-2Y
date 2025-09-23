@@ -15,7 +15,7 @@ public class MostFrequentChar {
 
         for (int i = 0; i < input.length(); i++) {
             char ch = input.charAt(i);
-            freq[ch]++;
+            freq(int) [ch]++;
         }
 
         int maxCount = 0;

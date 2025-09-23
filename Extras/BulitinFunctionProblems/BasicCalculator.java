@@ -17,5 +17,5 @@ public class BasicCalculator {
     private static double subtract(double a, double b) {
         return a - b;
     }
-
+}
     // Function to multiply two numbers

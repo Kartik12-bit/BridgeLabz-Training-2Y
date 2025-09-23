@@ -7,7 +7,6 @@ Explanation: The Student class organizes all relevant details about a student as
 attributes. Methods are used to calculate the grade and provide a way to display all
 information.
 */
-
 import java.util.Scanner;
 
 class Student {
